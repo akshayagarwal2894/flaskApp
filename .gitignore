@@ -1,0 +1,11 @@
+app.egg-info/*
+bin/*
+app/*.pyc
+build/*
+dist/*
+include/*
+lib/*
+local/*
+share/*
+app/info.log
+.vscode/
